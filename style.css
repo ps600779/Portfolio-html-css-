@@ -252,7 +252,7 @@ span{
         content: "Web Developer";
     }
     21%, 40%{
-        content: "Developer";
+        content: "Software Developer";
     }
     41%, 60%{
         content: "Web Designer";
@@ -372,7 +372,7 @@ h2 {
     height: 100%;
     background-color: #35bcbf;
     width: 0;
-    animation: loadSkill 3s ease-in-out forwards;
+    animation: loadSkill 2s ease-in-out forwards;
 }
 
 @keyframes loadSkill {
@@ -455,7 +455,7 @@ h2 {
 }
 
 .skills i {
-    font-size: 3rem; /* Adjust this value as needed */
-    margin-bottom: 1rem; /* Add some space below the icons */
-    color: white; /* Optional: Match the icon color with your theme */
+    font-size: 4rem;
+    margin-bottom: 1.5rem;
+    color: white;
 }
