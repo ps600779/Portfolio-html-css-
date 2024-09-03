@@ -8,10 +8,6 @@ Welcome to the official portfolio website of Priyanshu Sharma. This website show
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Sections](#sections)
-- [Screenshots](#screenshots)
-- [Contact](#contact)
-- [License](#license)
 
 ## Overview
 
